@@ -12,7 +12,7 @@ PUBLISH TO GITHUB PAGES:
 5. Test on desktop and mobile; check all checkout buttons.
 
 CHECKOUT:
-https://pay.hotmart.com/D108627628P?checkoutMode=2&off=gv13wkng
+https://pay.hotmart.com/D108627628P?checkoutMode=10&bid=1795717507938
 
 IMPORTANT:
 The interactive VSL is a browser-based narrated slideshow, not a professionally recorded MP4.
